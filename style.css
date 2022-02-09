@@ -1,0 +1,31 @@
+.dad {
+    height: 350px;
+    width: 1500px;
+    display: flex;
+    flex-wrap: nowrap
+}
+
+.div1 {
+    height: 350px;
+    width: 500px;
+    background-image: url(kon.jpeg);
+    background-size: 500px 350px;
+    margin-right: 10px;
+    background-color: aqua;
+}
+.div2 {
+    height: 350px;
+    width: 500px;
+    background-image: url(lim.jpeg);
+    background-size: 500px 350px;
+    margin-right: 10px;
+    background-color: bisque;
+}
+.div3 {
+     height: 350px;
+    width: 500px;
+    background-image: url(nam.jpg);
+    background-size: 500px 350px;
+    margin-right: 10px;
+    background-color: blueviolet;
+}
